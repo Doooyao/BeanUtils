@@ -1,0 +1,1 @@
+include ':app', ':beanutils-annotation', ':beanutils', ':beanutils-compiler'
